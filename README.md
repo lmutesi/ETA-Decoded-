@@ -80,8 +80,10 @@ Challenges remain due to missing real-time data (e.g., weather, maintenance logs
   - `DMA_FINAL_PROJECT_Regression_Model.ipynb`
 
 ### Documentation
-- [Final Project Report]
-- [Presentation Deck]
+## Documentation
+- [Final Project Report](https://github.com/lmutesi/ETA-Decoded-/blob/main/DMA%20Final%20Project%20Report_ETA%20Decoded.pdf)
+- [Presentation Deck](https://github.com/lmutesi/ETA-Decoded-/blob/main/Frequent%20Flyers_ETA%20Decoded%20.pdf)
+
 
 ### Lessons Learned
 - Balancing recall and precision is critical in high-stakes predictions.
